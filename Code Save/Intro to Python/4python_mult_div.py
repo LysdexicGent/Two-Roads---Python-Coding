@@ -27,7 +27,7 @@ selection = " "
 
 # taking input
 print("Adding or Subtracting machine. If Subtracting then 2nd number is subtracted from 1st number.")
-selection = input("Do you want x or /")
+selection = input("Do you want x or /: ")
 num1 = int(input("Input 1st number: "))
 num2 = int(input("Input 2nd number: "))
 
