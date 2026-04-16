@@ -1,2 +1,4 @@
 # Two-Roads---Python-Coding
-A repository to store code for Coding Class at Two Roads for Mr. Zerr
+A repository to store code for the Programming Class at Two Roads for Mr. Zerr
+
+I have the code saved by name and challenge level for the students.
